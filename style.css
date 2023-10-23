@@ -1,0 +1,89 @@
+body {
+   background: rgb(240, 240, 240);
+   color: black;
+   font-family: serif;
+}
+h1{ 
+	color: coral ;
+    font-family: Courier;
+    font-size: 50px}	
+
+h2{ 
+	color: coral ;
+    font-family: Courier;
+    font-weight: 100;}	
+
+h4{ 
+	color: black ;
+    font-family: serif;
+    font-weight: lighter;}	
+
+a{ 
+     color: coral;
+     text-decoration: none }
+
+a:hover { 
+ color: skyblue;}
+
+
+.image-circle {
+	border-radius: 10%;
+}
+
+/*Custom design with class */
+.container {
+	width: 700px;
+    margin: 40px auto;  
+}
+
+
+.card-white {
+   background-color: white;
+   padding: 40px; 
+   box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+   border-radius: 10px;
+   margin: 30px 10px;
+   text-align: center;
+}
+
+.button-orange {
+   background-color: coral;
+   color: white;
+   padding: 5px 20px;
+   border-radius: 3%;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i:hover {
+   color: black;
+}
+
+/* Design adjustments using id */
+
+
+
+
+#introduction p {
+   margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
